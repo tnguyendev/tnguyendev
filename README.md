@@ -1,4 +1,11 @@
-### Hi there 👋
+### Thao Nguyen
+
+Full stack software engineer with experience in designing and developing web applications with responsive features. Skilled at looking for innovative solutions in everyday problems.
+
+![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/102040536/170361105-d2247a29-84b9-4190-bcda-e09b941c9fe4.png)
+
+
+
 
 <!--
 **tnguyendev/tnguyendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
