@@ -5,7 +5,11 @@ Full stack software engineer with experience in designing and developing web app
 ![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/102040536/170361105-d2247a29-84b9-4190-bcda-e09b941c9fe4.png)
 
 
-
+- 🔭 I’m currently working on a social media site for artists!
+- 💬 Ask me about my favorite games :) 
+- 📫 How to reach me: tpnguyendev@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love collecting plushies and blind box figures.
 
 <!--
 **tnguyendev/tnguyendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
