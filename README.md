@@ -2,7 +2,8 @@
 
 Full stack software engineer with experience in designing and developing web applications with responsive features. Skilled at looking for innovative solutions in everyday problems.
 
-![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/102040536/170361105-d2247a29-84b9-4190-bcda-e09b941c9fe4.png)
+![giphy](https://user-images.githubusercontent.com/102040536/171083516-a89154aa-ac04-4e68-83f5-8407859fdd43.gif)
+
 
 
 - 🔭 I’m currently working on a social media site for artists!
