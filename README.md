@@ -1,16 +1,7 @@
-### Thao Nguyen
 
-Full stack software engineer with experience in designing and developing web applications with responsive features. Skilled at looking for innovative solutions in everyday problems.
+![githubgif](https://user-images.githubusercontent.com/102040536/171087018-2f7137d7-2ed7-4b7f-8db6-dd6ce45c3628.gif)
 
-![giphy](https://user-images.githubusercontent.com/102040536/171083516-a89154aa-ac04-4e68-83f5-8407859fdd43.gif)
-
-
-
-- 🔭 I’m currently working on a social media site for artists!
-- 💬 Ask me about my favorite games :) 
-- 📫 How to reach me: tpnguyendev@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love collecting plushies and blind box figures.
+![Currently_working_on](https://user-images.githubusercontent.com/102040536/171088935-95d98fa7-bf00-42e3-8ac5-41ac02561c09.gif)
 
 <!--
 **tnguyendev/tnguyendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on a social media site for artists!
+- 💬 Ask me about my favorite games :) 
+- 📫 How to reach me: tpnguyendev@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love collecting plushies and blind box figures.
 -->
